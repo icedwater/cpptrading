@@ -127,3 +127,9 @@ Oliveira makes the code available on [his website][coli].
        c. Pricing derivatives
        d. Improving efficiency
 
+# Ideas
+
+I suppose we could try to see if Python can do these, or if other languages are
+worth exploring as well. I would assume Python will be much slower, given C/C++
+is often cited as a way to improve performance.
+
